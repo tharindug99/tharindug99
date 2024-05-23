@@ -58,9 +58,18 @@
 
 ### :fire: My Stats :
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tharindug99&theme=dark&background=000000" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindug99&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</p>
+<table align="center" backgroundColor="black">
+  <tr>
+    <td align="center">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=tharindug99&theme=dark&background=000000" alt="GitHub Streak"/>
+    </td>
+  </tr>
+
+  <tr style="background-color: #000000;">
+    <td align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindug99&layout=compact&theme=vision-friendly-dark&background=000000" alt="Top Languages"/
+    </td>
+  </tr>
+</table>
 
 <!-- BLOG-POST-LIST:END -->
